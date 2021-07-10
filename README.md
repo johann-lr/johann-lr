@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273149%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273184%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -18,8 +18,8 @@ Tuesday      77 commits     █████░░░░░░░░░░░░�
 Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
 Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
 Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-Sunday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
+Sunday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
 
@@ -34,5 +34,5 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/johann-lr/johann-lr/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
