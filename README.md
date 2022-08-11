@@ -23,16 +23,5 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/johann-lr/johann-lr/master/charts/bar_graph.png) 
-
-
  Last Updated on 28/04/2022 18:50:39 UTC
 <!--END_SECTION:waka-->
